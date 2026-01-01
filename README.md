@@ -7,7 +7,7 @@ Data Structures &amp; Algorithms practice repository in Java.  Contains arrays, 
 This repository contains my Data Structures & Algorithms practice.
 
 ## Topics Covered
-
+ 
 ### Arrays
 - 27+ problems solved
 - Key problems: Maximum Subarray (53), Rotate Array (189), Best Time to Buy and Sell Stock (121)
