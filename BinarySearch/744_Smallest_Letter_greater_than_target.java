@@ -17,6 +17,6 @@ else
     high = mid -1 ;
 }
         }
-        return letters[low %  letters.length]; //if not get greater char
+        return letters[low % letters.length]; //if not get greater char
     }
 }
