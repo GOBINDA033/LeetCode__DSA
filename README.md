@@ -10,7 +10,7 @@ This repository contains my Data Structures & Algorithms practice.
  
 ### Arrays 
 - 27+ problems solved
-- Key problems: Maximum Subarray (53), Rotate Array (189), Best Time to Buy and Sell Stock (121)  
+- Key problems: Maximum Subarray (53), Rotate Array (189), Best Time to Buy and Sell Stock (121)   
 
 ### Binary Search
 - Key problems: Binary Search (704), Search Insert Position (35)
