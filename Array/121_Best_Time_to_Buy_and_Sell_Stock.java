@@ -1,5 +1,7 @@
 
 // leetCode 121.Buy and sell stock 
+// Time Complexity O(n)
+// Space Complexity O(1)
 public class SellBuy {
  public static int maxProfit(int [] prices)
  {
