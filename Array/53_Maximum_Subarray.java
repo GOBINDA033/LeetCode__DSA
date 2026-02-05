@@ -1,4 +1,7 @@
-//Dynamic problem Maximum Subarray Sum
+// Dynamic problem Maximum Subarray Sum
+// Time Complexity O(n) 
+//Space Complexity O(1)
+
 class MaximumSubarray
 {
  public static int maxSubarray(int[] arr)
