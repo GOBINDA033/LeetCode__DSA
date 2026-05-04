@@ -3,7 +3,7 @@ Data Structures &amp; Algorithms practice repository in Java.  Contains arrays, 
 
   
 # DSA Practice Repository  
- 
+  
 This repository contains my Data  Structures & Algorithms practice.             
    
 ## Topics Covered  
