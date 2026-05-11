@@ -6,7 +6,7 @@ Data Structures &amp; Algorithms practice repository in Java.  Contains arrays, 
   
 This repository contains my Data  Structures & Algorithms practice.    
    
-## Topics Covered  
+## Topics Covered   
  
 ### Arrays    
 - 27+ problems solved
