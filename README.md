@@ -16,7 +16,7 @@ This repository contains my Data  Structures & Algorithms practice.
 - Key problems: Binary Search (704), Search Insert Position (35)
 
 ### Strings
-- Key problems: Longest Substring, Valid Anagram, etc.
+- Key problems: Longest Substring, Valid Anagram, etc. 
 
 ### LinkedList
 - Key problems: Reverse LinkedList, Merge Two Sorted Lists
