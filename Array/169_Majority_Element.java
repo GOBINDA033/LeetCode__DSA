@@ -1,7 +1,8 @@
 // Leetcode: 169 Majority Element 
 // by using Moore's Voting Algorithm
 // Time Cpmplexity O(n)
-//Space Complextiy O(1) 
+// Space Complextiy O(1) 
+
 
 class Solution {
     public int majorityElement(int[] nums) {
