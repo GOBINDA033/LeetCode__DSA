@@ -1,5 +1,5 @@
 // leetcode 1283 find the smaller divisor given a threshold
-// Time complexity O( N log M) 
+// Time complexity O(N log M) 
 // Space Complexity O(1)
 
 
