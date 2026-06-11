@@ -1,7 +1,7 @@
 // 70_Climbing_Stairs 
 // Time Complexity O(n)
 // Space Complexity O(1)
-class Solution {
+class Solution { 
     public int climbStairs(int n) {
         if (n <= 2) return n;
 
