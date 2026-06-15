@@ -17,7 +17,7 @@ This repository contains my Data Structures & Algorithms practice.
 ### Strings
 - Key problems: Longest Substring, Valid Anagram, etc. 
 
-### LinkedList
+### LinkedList 
 - Key problems: Reverse LinkedList, Merge Two Sorted Lists
 
 ... (aur topics similar mention kar sakte ho)
